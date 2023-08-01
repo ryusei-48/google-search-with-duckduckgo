@@ -1,0 +1,8 @@
+{
+  "description": {
+    "message": "Display duckduckgo search results in google search engine results at the same time."
+  },
+  "h2_title": {
+    "message": "Results by DuckduckGo"
+  }
+}

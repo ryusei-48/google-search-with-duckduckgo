@@ -1,0 +1,8 @@
+{
+  "description": {
+    "message": "Google検索での検索結果に加えて、DuckduckGoの検索結果も表示します。"
+  },
+  "h2_title": {
+    "message": "DuckduckGoでの検索結果"
+  }
+}
